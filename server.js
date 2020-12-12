@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const { TOKEN, Discord_Channel_Id, Discord_Server_Id, Live_Link} = require('dotenv');
+const { TOKEN, dc_channel_id, server_id, Link} = require('dotenv');
 
 const ytdl = require('ytdl-core');
 
