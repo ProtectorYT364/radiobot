@@ -1,5 +1,5 @@
 # Radio-bot
-# MADE BY YASHRAJ GAMING
+# MADE BY DEVNEMIL
 How to setup up video tutorial!
 
 Link:- [TUTORIAL]()
